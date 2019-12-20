@@ -1,7 +1,7 @@
 {
-  "name": "ember-cli-cors",
+  "name": "ember-cli-cors2",
   "version": "0.0.3",
-  "repository": "https://github.com/diploidgenomics/ember-cli-cors",
+  "repository": "https://github.com/peopledoc/ember-cli-cors2",
   "engines": {
     "node": ">= 0.10.0"
   },
